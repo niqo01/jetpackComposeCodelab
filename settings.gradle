@@ -1,0 +1,2 @@
+rootProject.name = "Test Compose"
+include ':app'
